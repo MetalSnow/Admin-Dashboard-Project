@@ -66,6 +66,12 @@ h3 {
   cursor: pointer;
 }
 
+.nav ul li:hover {
+  color: bisque;
+  position: relative;
+  left: 5px;
+}
+
 /* Header Content */
 .header {
   background-color: white;
@@ -256,6 +262,7 @@ h3 {
   color: black;
   font-size: 14px;
 }
+
 .trending-items p {
   color: #686868;
   font-size: 13px;
