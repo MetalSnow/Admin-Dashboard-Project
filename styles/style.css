@@ -80,6 +80,7 @@ h3 {
   grid-template: 1fr 2fr/ 2fr 1fr;
   box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.2);
   margin-bottom: 8px;
+  padding-top: 10px;
 }
 
 .header .item1 {
