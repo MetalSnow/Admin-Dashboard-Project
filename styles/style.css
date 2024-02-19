@@ -1,0 +1,11 @@
+@import url(./normalize.css);
+
+:root {
+  --teal-color: #14b8a6;
+  --cyan-color: #0e7490;
+}
+
+.container {
+  height: 100vh;
+  background-color: beige;
+}
